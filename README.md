@@ -1,7 +1,7 @@
 # spotifyclone
 this is simple spotify front page
 
-#technology stacks
+# technology stacks
 -html
 -css
 
